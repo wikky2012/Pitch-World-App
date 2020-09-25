@@ -2,7 +2,7 @@
 
 ## Author
 
-[Joseph-Odhiambo](https://github.com/Joseph-Odhiambo)
+[Ronoh K. Wycliffe](https://github.com/wikky2012)
 
 # Description
 This  is a flask application that allows users to post one minute pitches and also allows other users who have signed up to comment and upvote or downvote a pitch. It also allows a person to signup to be able to access the functionalities of the application
@@ -28,7 +28,7 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  https://github.com/Joseph-Odhiambo/pitch-world
+  https://github.com/wikky2012/Pitch-World-App.git
   ```
 2. Move to the folder and install requirements
   ```bash
@@ -62,8 +62,8 @@ Open the application on your browser `127.0.0.1:5000`.
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [josephkdo@gmail.com]
+If you have any question or contributions, please email me at [wicliferono@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2020 **Joseph Odhiambo**
+* Copyright (c) 2020 **Wycliffe K. Ronoh**
